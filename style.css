@@ -10,3 +10,22 @@
     background: linear-gradient(135deg, #153677, #4e085f);
     padding: 10px;
 }
+.todo{
+    width: 100%;
+    max-width: 540px;
+    background: #0fff;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 10px;
+}
+.todo h2{
+    color: #002765;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.todo h2 img{
+    width: 30px;
+    margin-left: 10px;
+}
